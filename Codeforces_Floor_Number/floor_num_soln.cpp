@@ -15,7 +15,7 @@ int main(){
     }
     else{
       n = n-2;
-      r=(n/x)+2;
+      r=(n/x)+1;
     }
     arr[i]=r;
   }
